@@ -17,16 +17,12 @@ CS and Engineering Student
 <!-- Quadro Stats -->
 <div>
 <a href="https://github.com/antoniowf">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniowf&layout=compact&langs_count=7&theme=dracula"/>
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniowf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
 
 </div>
 
 ## Let's Connect
 - 📧 [Email](mailto:antoniowdefreitas@outlook.com)
-
+- 🏃‍♂️ <a href="https://www.strava.com/athletes/35569569">[Strava]</a>
 ---
 
 ⭐ Feel free to explore my repositories and don't hesitate to reach out!
