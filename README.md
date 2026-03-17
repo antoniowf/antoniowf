@@ -22,7 +22,7 @@ CS and Engineering Student
 
 ## Let's Connect
 - 📧 [Email](mailto:antoniowdefreitas@outlook.com)
-- 🏃‍♂️ <a href="https://www.strava.com/athletes/35569569">[Strava]</a>
+- 🏃‍♂️ <a href="https://www.strava.com/athletes/35569569">Strava</a>
 ---
 
 ⭐ Feel free to explore my repositories and don't hesitate to reach out!
