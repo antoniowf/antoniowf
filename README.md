@@ -8,7 +8,7 @@ CS and Engineering Student
 <img width="50" style="padding: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /><img width="50" style="padding: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /><img width="50" style="padding: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img width="50" style="padding: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img width="50" style="padding: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 ## About Me
-- 🎓 Computer Science student
+- 🎓 Computer Science and Engineering student
 - 🌱 Learning and growing as a developer
 - 💻 Focused on software development
 - 💼 Currently working as an intern
