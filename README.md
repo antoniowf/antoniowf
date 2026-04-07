@@ -8,7 +8,7 @@ I am a Undergraduate Computer Science student and Computer Engineering . I am pa
 
 ## ⚡ Tech
 
-Here are a few things I've I'm studying and working with:
+Here are a few things I'm studying and working with:
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
