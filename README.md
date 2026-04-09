@@ -1,7 +1,7 @@
 
 # Oi, I am Antonio 👨‍💻
 
-I am a Undergraduate Computer Science student and Computer Engineering . I am passionate with computer and tech 🖥️
+I am a Undergraduate Computer Science and Engineering student. I am passionate with computer and tech 🖥️
 
 ### 👀 Have a look at my [website](https://antoniowf.github.io/MyWebsite/index.html). <sub><small>(Yeah I know that is too simple, but it works!)</small></sub>
 
